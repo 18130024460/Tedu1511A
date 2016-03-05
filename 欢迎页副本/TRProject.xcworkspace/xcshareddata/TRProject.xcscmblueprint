@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "8cc185b8-ce20-4fff-87ce-0f35fdf91410",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "8cc185b8-ce20-4fff-87ce-0f35fdf91410" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "8cc185b8-ce20-4fff-87ce-0f35fdf91410" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "8323A87E-6579-4D84-9E4F-B07C97E321EC",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "8cc185b8-ce20-4fff-87ce-0f35fdf91410" : "daydaynew\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "TRProject",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "源码\/欢迎页副本\/TRProject.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/www.svnchina.com\/svn\/daydaynew",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8cc185b8-ce20-4fff-87ce-0f35fdf91410"
+    }
+  ]
+}
